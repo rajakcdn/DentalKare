@@ -3,7 +3,7 @@
 	"p_rel_url" : "rajakcdn/DentalKare/refs/heads/main/Edk_Calendar.csv",
 	"p_sink_folder" : "Edk_Calendar",
 	"p_sink_file" : "Edk_Calendar.csv"
-   }
+   },
    {
 	"p_rel_url" : "rajakcdn/DentalKare/refs/heads/main/Edk_Product_Categories.csv",
 	"p_sink_folder" : "Edk_Product_Categories",
