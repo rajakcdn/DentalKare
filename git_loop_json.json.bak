@@ -13,42 +13,60 @@
 	"p_rel_url" : "rajakcdn/DentalKare/refs/heads/main/Edk_Product_Categories.csv",
 	"p_sink_folder" : "Edk_Product_Categories",
 	"p_sink_file" : "Edk_Product_Categories.csv"
-   }
+   },
    {
 	"p_rel_url" : "rajakcdn/DentalKare/refs/heads/feature/Test/Edk_Product_Subcategories.csv",
 	"p_sink_folder" : "Edk_Product_Subcategories",
 	"p_sink_file" : "Edk_Product_Subcategories.csv"
 	   
-   }
+   },
    {
 	"p_rel_url" : "rajakcdn/DentalKare/refs/heads/feature/Test/Edk_Products.csv",
 	"p_sink_folder" : "Edk_Products",
 	"p_sink_file" : "Edk_Products.csv"
 	   
-   }
+   },
    {
 	"p_rel_url" : "rajakcdn/DentalKare/refs/heads/main/Edk_Returns.csv",
 	"p_sink_folder" : "Edk_Returns",
 	"p_sink_file" : "Edk_Returns.csv"
 	   
-   }
+   },
    {
-	"p_rel_url" : "rajakcdn/DentalKare/refs/heads/main/Edk_Product_Categories.csv",
-	"p_sink_folder" : "Edk_Product_Categories",
-	"p_sink_file" : "Edk_Product_Categories.csv"
+	"p_rel_url" : "rajakcdn/DentalKare/refs/heads/main/Edk_Sales_2015.csv",
+	"p_sink_folder" : "Edk_Sales_2015",
+	"p_sink_file" : "Edk_Sales_2015.csv"
 	   
-   }
+   },
    {
-	"p_rel_url" : "rajakcdn/DentalKare/refs/heads/main/Edk_Product_Categories.csv",
-	"p_sink_folder" : "Edk_Product_Categories",
-	"p_sink_file" : "Edk_Product_Categories.csv"
+	"p_rel_url" : "rajakcdn/DentalKare/refs/heads/main/Edk_Sales_2016.csv",
+	"p_sink_folder" : "Edk_Sales_2016",
+	"p_sink_file" : "Edk_Sales_2016.csv"
 	   
-   }
+   },
    {
-	"p_rel_url" : "rajakcdn/DentalKare/refs/heads/main/Edk_Product_Categories.csv",
-	"p_sink_folder" : "Edk_Product_Categories",
-	"p_sink_file" : "Edk_Product_Categories.csv"
+	"p_rel_url" : "rajakcdn/DentalKare/refs/heads/main/Edk_Sales_2017.csv",
+	"p_sink_folder" : "Edk_Sales_2017",
+	"p_sink_file" : "Edk_Sales_2017.csv"
 	   
-   }
+   },
+   {
+	"p_rel_url" : "rajakcdn/DentalKare/refs/heads/main/Edk_Territories.csv",
+	"p_sink_folder" : "Edk_Territories",
+	"p_sink_file" : "Edk_Territories.csv"
+	   
+   },
+   {
+	"p_rel_url" : "rajakcdn/DentalKare/refs/heads/main/Edk_sales.csv",
+	"p_sink_folder" : "Edk_sales",
+	"p_sink_file" : "Edk_sales.csv"
+	   
+   },
+   {
+	"p_rel_url" : "rajakcdn/DentalKare/refs/heads/main/Edk_sales_corrected.csv",
+	"p_sink_folder" : "Edk_sales_corrected",
+	"p_sink_file" : "Edk_sales_corrected.csv"
+	   
+   }, 
 
 ]
